@@ -1,11 +1,5 @@
-=== IMAGE ALT TAGER ===
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=j%2epiliukaitis%40gmail%2ecom&lc=LT&item_name=Image%20Alt%20Tager&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
-Tags: image, alternative, alt, tags, tag, img, changer, widget, post, plugin, admin, posts, sidebar, page, pages
-Requires at least: 3.3
-Tested up to: 4.2.2
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+=== IMAGE ALT TAGER ===Contributors: eSasAuthor URL: https://profiles.wordpress.org/esas
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=j%2epiliukaitis%40gmail%2ecom&lc=LT&item_name=Image%20Alt%20Tager&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuestTags: image, alternative, alt, tags, tag, img, changer, widget, post, plugin, admin, posts, sidebar, page, pagesRequires at least: 3.3Tested up to: 4.2.2Stable tag: 1.0License: GPLv2 or laterLicense URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Simple customisable plugin that makes changing image ALT tags, easy and effortless work.
 

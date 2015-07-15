@@ -22,7 +22,7 @@ This plugin does not destroy your old ALT tags by deactivating plugin you will r
 I developed this plugin as I could not find any plugin that simply allows users to change all of the image tags on users website with a single click.
 
 If you liked my simple, but useful plugin please share some love with me and donate :)
-https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=j%2epiliukaitis%40gmail%2ecom&lc=LT&item_name=Image%20Alt%20Tager&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
+https://goo.gl/BEazSf
 
 
 == Installation ==

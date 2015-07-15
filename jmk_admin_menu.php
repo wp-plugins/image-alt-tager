@@ -35,7 +35,7 @@ $table = $wpdb->prefix."jmk_alt_tags";
 			"jmk_randomize" => $randomize,
 			"jmk_content" => $ContentBox,
 			"jmk_widgets" => $WidgetBox,
-			"jmk_tag" => $jmktags
+			"jmk_tags" => $jmktags
 		));
 	?>
 
@@ -48,7 +48,7 @@ $table = $wpdb->prefix."jmk_alt_tags";
 		$result = $wpdb->get_row("SELECT * FROM $table WHERE ID = " . $id);
 		if($result){
 			foreach($result as $detail => $item){
-				if($detail === 'jmk_tag'){
+				if($detail === 'jmk_tags'){
 					$jmktags = $item;
 				}
 				if($detail === 'jmk_randomize'){

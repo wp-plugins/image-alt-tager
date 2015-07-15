@@ -112,7 +112,7 @@ function jmk_header( $content ) {
 	$result = $wpdb->get_row("SELECT * FROM $table WHERE ID = " . $id);
 	if($result){
 		foreach($result as $detail => $item){
-			if($detail === 'jmk_tag'){
+			if($detail === 'jmk_tags'){
 				$jmktags = $item;
 			}
 			if($detail === 'jmk_randomize'){
@@ -156,7 +156,7 @@ function jmk_content( $content ) {
 	$result = $wpdb->get_row("SELECT * FROM $table WHERE ID = " . $id);
 	if($result){
 		foreach($result as $detail => $item){
-			if($detail === 'jmk_tag'){
+			if($detail === 'jmk_tags'){
 				$jmktags = $item;
 			}
 			if($detail === 'jmk_randomize'){
@@ -198,7 +198,7 @@ function jmk_widget($content){
 	$result = $wpdb->get_row("SELECT * FROM $table WHERE ID = " . $id);
 	if($result){
 		foreach($result as $detail => $item){
-			if($detail === 'jmk_tag'){
+			if($detail === 'jmk_tags'){
 				$jmktags = $item;
 			}
 			if($detail === 'jmk_randomize'){
